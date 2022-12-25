@@ -1,8 +1,5 @@
-﻿#include <fstream>
-#include <iostream>
-#include <sstream>
+﻿#include <iostream>
 #include <windows.h>
-#include <algorithm>
 
 
 
